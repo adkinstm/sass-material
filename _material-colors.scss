@@ -1,4 +1,4 @@
-@function material-color($color, $color-variant) {
+@function material-color($color, $color-variant:null) {
   @if ($color-variant != null) {
     @return map-get(map-get($material-colors, $color), $color-variant);
   } @else {
