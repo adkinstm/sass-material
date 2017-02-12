@@ -5,7 +5,7 @@ Recently I've built several sites using the Material color palette.  Built this 
 #### 1. Import the SCSS File
 Import it into your project's main SCSS file as such:
 ```sass
-@import '_sass-material';
+@import '_material-colors';
 ```
 I recommend it being the first file you import so you can use it in any of the other files you're importing.
 
