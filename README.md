@@ -16,7 +16,7 @@ So, if you wanted to make your <p> text color purple -> 800
 If you just want the base color, for example not purple -> 800 but just purple (which is 500), no need to add the 500.  You can just do this and it will default to 500 unless you specify another variation.
     material-color(purple);
 
-Refer to the official Material Design Spec for colors and variations.  Note that white and black are defined just by:
+Refer to the official Material Design Spec for colors and variations (https://material.io/guidelines/style/color.html#color-color-palette).  Note that white and black are defined just by:
     material-color(white);
     material-color(black);
 
