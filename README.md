@@ -14,7 +14,7 @@ There is a function built into the file so you can access it easily.  Here is th
 ```sass
 material-color(%color%, %variant%);
 ```
-So, if you wanted to make your <p> text color purple -> 800
+So, if you wanted to make your &lt;p&gt; text color purple -> 800
 ```sass
 p {
   color: material-color(purple, 800);
