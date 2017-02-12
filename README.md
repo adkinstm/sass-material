@@ -1,5 +1,5 @@
 # SASS Material
-Recently I've built several sites using the Material color palette.  Built this so I would only have to keep track of the color variants rather than hex codes, and if I wanted to lighten or darken anything, I could make the change just by changing '500' to '600' rather than going and looking up the HEX code in the design spec, or worrying that `darken($color, 20%)` wasn't in the color spec.
+Recently I've built several sites using the Material color palette.  Built this so I would only have to keep track of the color variants rather than hex codes, and if I wanted to lighten or darken anything, I could make the change just by changing '500' to '600' rather than going and looking up the HEX code in the design spec, or worrying that `darken($color, 20%);` wasn't in the color spec.
 
 ## Here's How To Use It
 #### 1. Import the SCSS File
