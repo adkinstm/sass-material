@@ -39,3 +39,6 @@ material-color(light-blue, 200);
 ```
 
 Hope this helps you out!
+
+## License
+Copyright (c) 2019 Mark Adkins.  Open source and released under the [MIT License](https://github.com/funkybunch/SASS-Material-Palette/blob/master/LICENSE).
